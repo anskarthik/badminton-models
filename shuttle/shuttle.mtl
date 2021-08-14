@@ -1,0 +1,30 @@
+newmtl Tube material_a7bc15f0-9ab3-4ab5-a589-5bf686ef7d04
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Tube material 1_30126a2c-4ac9-4015-9aa1-f2f00c056984
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Tube material 2_672485e2-7fab-4a2b-ad79-26ae84b82e88
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Tube material 3_26039907-aa95-4873-ae74-b3a4126eb354
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Tube material 4_9efefde1-37ef-444c-9372-155ec4e58876
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Tube material 6_b5b3307f-89e0-440d-b2db-0de777052fcf
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Tube material 5_1e266ef5-e1c2-4079-90bf-2c34340166f1
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Box material 1_9d09ac59-7629-4476-89bf-4bad3b7917a8
+Kd 0.875 1.000 0.420
+d 1.000
+newmtl Cylinder material_3157431c-0c7e-4b73-8583-76e79dc3b706
+Kd 0.000 0.502 0.016
+d 1.000
+newmtl Sphere material_3c085d25-d6a3-4734-90e6-b426d840c689
+Kd 1.000 1.000 1.000
+d 1.000
