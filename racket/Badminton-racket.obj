@@ -1,5 +1,5 @@
 # Vectary OBJ Export units=mm
-mtllib Badminton racket.mtl
+mtllib Badminton-racket.mtl
 o 000_Cylinder_1
 g Cylinder_1
 usemtl Cylinder material 1_eb428785-4ff3-4fd5-9350-5128b76eabeb
