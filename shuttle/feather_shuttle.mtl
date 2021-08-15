@@ -1,0 +1,19 @@
+newmtl Tube material_a7ab54a8-94c3-432d-b8f9-8bbcb902cf76
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Tube material 1_a5a56a8c-5394-4598-8ba1-b4b26e5a4926
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Material 1_204afd00-8466-4fe8-80fc-bffce130cfc3
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Polish_20210815_211144783.jpg
+newmtl Cylinder material 1_fe0fc95f-7f7e-4ac8-9307-b5cfb311d830
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl Cylinder material_1a31acba-c4e2-449a-8553-b8887e3f2b75
+Kd 0.000 0.369 0.078
+d 1.000
+newmtl Sphere material_e046945d-7fd9-4f71-a4e4-938b37d3fa5d
+Kd 1.000 1.000 1.000
+d 1.000
