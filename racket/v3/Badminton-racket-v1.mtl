@@ -1,0 +1,21 @@
+newmtl Fabric Editable 1_212044a6-eccf-4fdd-921a-26c33915a322
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Fabric_Fabric_004_Color.jpg
+newmtl Plastic Textured_99d35943-8bb8-4f81-8497-714c9c51bf7c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd img_20217281316583.jpg
+newmtl Plastic Textured 1_b8d80704-0a8d-4934-8216-b074a261c8b7
+Kd 0.600 0.173 0.173
+d 1.000
+newmtl Gold - Glossy_5aea2280-ed0a-4394-a807-27e7eaee6611
+Kd 0.600 0.173 0.173
+d 1.000
+newmtl Metal - Galvanized 1_b1697c2b-2bd8-4354-b41e-0f323cf3b25f
+Kd 0.600 0.173 0.173
+d 1.000
+newmtl Material_499a75b7-3db7-4578-a49d-a63f6494809f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd img_2021727202383&3fb3bf7e-cecd-4430-a3ea-1e46694740202Fracket-mesh_2.png
